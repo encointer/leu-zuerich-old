@@ -1,0 +1,23 @@
+{
+    "MarketingCampaignsReporting": {
+        "CampaignId": "Kampanya kodu",
+        "CampaignIds": "Kampanya kodları",
+        "CombinedKeywordContent": "Anahtar sözcük - içerik",
+        "CombinedSourceMedium": "Kaynak - ortam",
+        "CombinedSourcesMediums": "Kampanya kaynağı - ortam",
+        "Content": "Kampanya içeriği",
+        "Contents": "Kampanya içerikleri",
+        "Group": "Kampanya grubu",
+        "Groups": "Kampanya grubu",
+        "Keyword": "Kampanya anahtar sözcüğü",
+        "Keywords": "Kampanya anahtar sözcükleri",
+        "Medium": "Kampanya ortamı",
+        "Mediums": "Kampanya ortamları",
+        "Name": "Kampanya adı",
+        "Names": "Kampanya adları",
+        "Placement": "Kampanya konumlandırması",
+        "Placements": "Kampanya konumlandırması",
+        "Source": "Kampanya kaynağı",
+        "Sources": "Kampanya kaynakları"
+    }
+}

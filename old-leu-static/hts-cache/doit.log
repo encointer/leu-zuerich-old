@@ -1,0 +1,8 @@
+https://old.leu.zuerich/ -O ./old-leu-static +*.old.leu.zuerich/* -v
+File generated automatically on Tue, 05 May 2026 10:11:53, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

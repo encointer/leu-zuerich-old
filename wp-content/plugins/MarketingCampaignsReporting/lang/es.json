@@ -1,0 +1,16 @@
+{
+    "MarketingCampaignsReporting": {
+        "CampaignId": "Id de Campaña",
+        "CombinedKeywordContent": "Palabra clave - Contenido",
+        "CombinedSourceMedium": "Fuente - Medio",
+        "CombinedSourcesMediums": "Fuente de la campaña - Medio",
+        "Contents": "Contenidos de la campaña",
+        "Keywords": "Palabras clave de campaña",
+        "Medium": "Medio de la campaña",
+        "Mediums": "Medios de la campaña",
+        "Name": "Nombre de la campaña",
+        "Names": "Nombres de campaña",
+        "Source": "Fuente de la campaña",
+        "Sources": "Fuentes de la campaña"
+    }
+}

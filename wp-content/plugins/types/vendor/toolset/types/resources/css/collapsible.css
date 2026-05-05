@@ -1,0 +1,18 @@
+/*COLLAPSIBLE*/
+.wpcf-collapsible .wpcf-toggle-wrapper {
+    display: none;
+}
+.wpcf-collapsible-button {
+    width: 14px;
+    height: 14px;
+    float: right;
+    margin: 1em;
+    background-repeat: no-repeat;
+/*    background-attachment: fixed;*/
+    background-image: url(/wp-content/plugins/types/vendor/toolset/types/resources/images/collapse.png);
+    cursor: pointer;
+}
+.wpcf-collapsible-button-collapsed {
+    background-image: url(/wp-content/plugins/types/vendor/toolset/types/resources/images/expand.png);
+}
+
